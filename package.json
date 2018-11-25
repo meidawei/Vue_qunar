@@ -1,0 +1,20 @@
+{
+  "name": "Vue_qunar",
+  "version": "1.0.0",
+  "description": "Vue2.5开发去哪儿移动端App\r 本次开发包括实现去哪儿官网移动端的首页开发、详情页面开发、城市选择页面开发、城市搜索页面开发，一行行代码都是自己实现，大致耗时一周时间开发基本功能。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meidawei/Vue_qunar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meidawei/Vue_qunar/issues"
+  },
+  "homepage": "https://github.com/meidawei/Vue_qunar#readme"
+}
